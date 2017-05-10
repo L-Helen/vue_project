@@ -177,8 +177,8 @@
         background-size 22px 12px
       .icon-keyboard_arrow_right
         position absolute
-        right 8px
-        top 6px
+        right 6px
+        line-height 28px
         font-size 16px
         color #fff
     .detailBox
